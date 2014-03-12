@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1394630403 source:c:\users\jonathan\desktop\c++ programs\physicsengine\main.cpp
+	"SDL/SDL.h"
+
+1393994936 source:c:\users\jonathan\desktop\c++ programs\physicsengine\physics.cpp
+	"Physics.h"
+	<iostream>
+
+1393994739 c:\users\jonathan\desktop\c++ programs\physicsengine\physics.h
+
+1393994936 source:c:\users\jonathan\documents\github\physicssdl\physics.cpp
+	"Physics.h"
+	<iostream>
+
+1393994739 c:\users\jonathan\documents\github\physicssdl\physics.h
+
